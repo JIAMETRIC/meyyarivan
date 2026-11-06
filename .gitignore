@@ -1,0 +1,5 @@
+# Internal / source files — not published
+*.docx
+/logo.jpeg
+.claude/
+.DS_Store
